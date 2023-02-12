@@ -10,9 +10,9 @@ Run VLC with dedicated GPU on my laptop
 [Download binary file here](https://github.com/cuongmzq/vlc_nvidia_optimus/releases)
 
 Donate me:
-1. Paypal: paypal.me/cuongmzq
-2. Vietnamese Banking:
-# 1. Vietcombank:
-#    0381000610211
-#    NGUYEN MINH CUONG
-# 2. MOMO: 0356311841
+## 1. Paypal: paypal.me/cuongmzq
+## 2. Vietnamese Banking:
+## 1. Vietcombank:
+##    0381000610211
+##    NGUYEN MINH CUONG
+## 2. MOMO: 0356311841
