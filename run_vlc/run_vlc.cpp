@@ -24,7 +24,9 @@ int main(int argc, char** argv)
     std::string arg_string;
     std::getline(f_config, arg_string, '\0');
 
-    f_config.close();
+    if (f_config.is_open()) {
+        f_config.close();
+    }
 
     // if the config file is not found then set default command to open vlc2
     if (arg_string.size() == 0) {
