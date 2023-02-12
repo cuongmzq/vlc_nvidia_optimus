@@ -11,7 +11,7 @@ Run VLC with dedicated GPU on my laptop
 
 #### Currently, I'm unemployed, so even a small donation, is really meaningful to me. Thank you.
 Donate me:
-1. Paypal: paypal.me/cuongmzq
-2. Vietnamese Banking:
+1. Paypal paypal.me/cuongmzq
+2. Vietnamese Banking
   2.1.  Vietcombank: 0381000610211 NGUYEN MINH CUONG
   2.2.  MOMO: 0356311841
