@@ -8,3 +8,11 @@ Run VLC with dedicated GPU on my laptop
 5. If it not working, then check and edit the path in vlc_cmd_option.txt. You may want to set default Video Player to VLC again.
 
 [Download binary file here](https://github.com/cuongmzq/vlc_nvidia_optimus/releases)
+
+Donate me:
+1. Paypal: paypal.me/cuongmzq
+2. Vietnamese Banking:
+  Vietcombank:
+    0381000610211
+    NGUYEN MINH CUONG
+  MOMO: 0356311841
