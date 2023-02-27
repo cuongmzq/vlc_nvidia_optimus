@@ -1,3 +1,6 @@
 .vs
 x64
-run_vlc.VC.VC.opendb
+*.VC.opendb
+*.VC.db
+*.db
+Release/
